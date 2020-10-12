@@ -1,0 +1,22 @@
+ div{
+    background-color:whitesmoke;
+} 
+.game-board {
+    
+    display: flex;
+     height: 300px;   
+    justify-content: center;
+    align-items: center; 
+    background-color: blue;
+    opacity: 0.6;
+}
+
+.square {
+    height: 30px;
+    width: 30px;
+    margin: 4px;
+}
+#root {
+    background-color: teal;
+
+}
